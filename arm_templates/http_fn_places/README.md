@@ -8,7 +8,7 @@ Create a HTTP trigger places function
 
 
 This template does the following thing   
-	1. standard storage account  
-	2. a function app  
-	3. an http trigger function for HERE places API  
+	1. Creates standard storage account  
+	2. Creates a function app  
+	3. Creates an http trigger function for HERE places API  
 
