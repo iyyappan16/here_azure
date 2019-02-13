@@ -9,9 +9,9 @@ Create a service bus triggered "places" function
 This template does the following thing   
 	1. creates a servicebus namespace  
 	2. creates a cosmos DB (SQL) instance  
-	1. creates a standard storage account  
-	2. creates a function app  
-	3. deploys a servicebus trigger function for HERE places API  
+	3. creates a standard storage account  
+	4. creates a function app  
+	5. deploys a servicebus trigger function for HERE places API  
 
 This template is for unidirectional journey where request will be received on servicebus queue.   
 incoming message to service bus triggers places function which internally will call actual here "places" api.   
