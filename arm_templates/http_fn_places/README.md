@@ -9,7 +9,7 @@ Create a HTTP trigger places function  - <a href="https://portal.azure.com/#crea
 
 
 This template does the following thing 
-	1. standard storage account
-	2. a function app
-	3. an http trigger function for HERE places API
+	1. standard storage account  
+	2. a function app  
+	3. an http trigger function for HERE places API  
 
