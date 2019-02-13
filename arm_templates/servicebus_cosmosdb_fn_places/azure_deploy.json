@@ -75,7 +75,7 @@
       "metadata": {
         "description": "Public accessible URL for Zip containing function code."
       },
-      "defaultValue": ""
+      "defaultValue": "https://github.com/navinmistry/here_azure/releases/download/0.1.0/servicebus_cosmosdb_fn_places.zip"
     }
   },
   "variables": {
