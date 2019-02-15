@@ -68,6 +68,11 @@
       "properties": {
         "name": "[parameters('appName')]",
         "siteConfig": {
+ "cors":
+				{
+					"allowedOrigins":
+					["*"]
+				},
           "appSettings": [
             {
               "name": "AzureWebJobsDashboard",
